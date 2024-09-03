@@ -40,3 +40,8 @@ You can interact with the system via the command line. To view the full list of 
 ```bash
 microservice-cli -help
 ```
+
+To stop the Docker containers, run the provided shell script:
+```bash
+./scripts/compose-prod-down.sh
+```
