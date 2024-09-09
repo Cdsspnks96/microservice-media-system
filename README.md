@@ -1,6 +1,6 @@
-# ENG2-media-system
+# Microservice-media-system
 ## Overview
-This is a simple media service designed for the purpose of the MEng Engineering2 module. 
+This is a simple media service designed for the purpose of a university module. 
 Users can post videos and like/dislike them, and these events will drive trending hashtags and subscription lists.
 
 ## Prerequisites for use
